@@ -32,7 +32,7 @@ _TODO: Add screenshots of the app here (e.g., repository list view, filter picke
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/GitHubRepository.git
+   git clone https://github.com/Navyatalluri-dev/retrieveUsers
 
 2. Open the project in Xcode:
   cd GitHubRepository
