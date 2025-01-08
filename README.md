@@ -101,7 +101,7 @@ Display contributor statistics for each repository.
 **Acknowledgments**
 GitHub API Documentation - https://docs.github.com/en/rest?apiVersion=2022-11-28
 SwiftUI Documentation - https://developer.apple.com/documentation/swiftui
-MVVM Design Pattern - 
+MVVM Design Pattern - https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
 
 
 
