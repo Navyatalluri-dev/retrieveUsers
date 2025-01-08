@@ -45,7 +45,11 @@ _TODO: Add screenshots of the app here (e.g., repository list view, filter picke
 3. Use the language filter to narrow down results.
 4. Tap on a repository to view more details.
 5. Scroll to the bottom of the list to load more repositories.
+
+   
 **Project Structure**
+
+
 The project follows the MVVM architecture for clear separation of concerns:
 GitHubRepository
 ├── Model
